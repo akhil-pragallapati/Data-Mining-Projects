@@ -1,6 +1,7 @@
 # Data-Mining-Projects
 
-This repository contains all of my Data mining project i have completed till now.
+This repository contains all of the Data mining projects I have completed till now.
 
 Projects in the repository are:
   1. Twitter data collection and analysis
+  2. Phishing Data Analysis
