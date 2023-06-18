@@ -7,5 +7,6 @@ Projects in the repository are:
   2. Phishing Data Analysis
   3. Data Mining in Financial Data
   4. MNIST Image Dataset Analysis
-  4. Rating prediction on YELP Dataset
-  5. Data Mining on Email Data
+  5. Rating prediction on YELP Dataset
+  6. Data Mining on Email Data
+  7. Sentiment Analysis on Movie Reviews
